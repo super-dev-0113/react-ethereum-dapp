@@ -170,5 +170,3 @@ If you would like to submit a pull request, please make an effort to follow the 
 ---
 Thanks for checking this out.
 
-Created by:
-– Leopold Joy, [@leopoldjoy](https://twitter.com/leopoldjoy)
